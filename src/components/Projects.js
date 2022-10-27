@@ -19,12 +19,12 @@ return (
             href={project.link}
             key={project.image}
           >
-            <img 
-              alt="gallery"
+          <h1>{project.title}</h1>
+          <img 
               src={project.image}
+              alt="gallery"
             />
             <h1>{project.subtitle}</h1>
-            <h1>{project.title}</h1>
             <p>{project.description}</p>
           </a> 
         ))}
