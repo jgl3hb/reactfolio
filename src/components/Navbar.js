@@ -13,9 +13,6 @@ export default function Navbar() {
           <a>
             Past Work
           </a>
-          <a>
-            Testimonials
-          </a>
         </nav>
         <a>
           Hire Me          

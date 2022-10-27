@@ -12,10 +12,12 @@ export default function About() {
           <p>
             I'm a full-stack developer who recently graduated from General Assembly's Immersive Software Engineering Program.
           </p>
-          <div className="flex justify-center">
+          <div>
             <a>
               Work With Me
             </a>
+            <br>
+            </br>
             <a>
               See My Projects
             </a>
